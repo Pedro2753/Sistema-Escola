@@ -8,4 +8,4 @@ Software em desenvolvimento, a versão 1.0 tera uma estrutura sql mais complexa,
 - Servidor MySQL Local com nome "BD", porta padrão "3306", usuario "host" e espaço de senha vazio. (Pode se usar um servidor personalizado alterando a URL na classe de conexão do codigo-fonte do software.)
 - Banco de dados do Sistema-escola construido. (Script sql incluso na pasta raiz do projeto)
 
-<a href="https://github.com/Pedro2753/Sistema-Escola/releases/download/v0.5.0/Sistema.Escola.0.5.Final.MIX.rar"> Download </a>
+<a href="https://github.com/Pedro2753/Sistema-Escola/releases/download/v0.5.0/Sistema.Escola.0.5.ReMind.rar"> Download </a>
