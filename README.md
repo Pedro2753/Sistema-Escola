@@ -1,7 +1,9 @@
-# Sistema-Escola V0.5
+# Sistema-Escolar V0.5
  Software demostrativo com funções CRUD, para um banco de dados basico de um colégio.
  
 Software em desenvolvimento, a versão 1.0 tera uma estrutura sql mais complexa, mais ferramentas, estabilidade e interface aprimorada.
+
+
 
 <b> Requisitos: </b>
 - Ultima versão do JDK
