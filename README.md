@@ -3,6 +3,8 @@
  
 Software em desenvolvimento, a versão 1.0 tera uma estrutura sql mais complexa, mais ferramentas, estabilidade e interface aprimorada.
 
+[![Screenshot](https://github.com/Pedro2753/Sistema-Escola/blob/main/shot1.png)
+
 [![Screenshot](https://github.com/Pedro2753/Sistema-Escola/blob/main/shot0.png)
 
 <b> Requisitos: </b>
