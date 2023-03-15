@@ -3,7 +3,7 @@
  
 Software em desenvolvimento, a versão 1.0 tera uma estrutura sql mais complexa, mais ferramentas, estabilidade e interface aprimorada.
 
-(/Pedro2753/Sistema-Escola/shot0?raw=true "Screenshot Homescreen")
+[![Screenshot](https://github.com/Pedro2753/Sistema-Escola/blob/main/shot0.png)
 
 <b> Requisitos: </b>
 - Ultima versão do JDK
